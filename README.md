@@ -6,7 +6,7 @@
 
   入口文件：自动将src/pages目录下的所有文件当作入口文件，无需手动配置，会自动配置进去。
   
-  入口文件格式 src/pages/文件名/index.ejs ，打包后的入口文件名为：文件名.js。
+  入口文件格式： src/pages/文件名/index.ejs ，打包后的入口文件名为：文件名.js。
   
   打包模块支持：支持es6语法、sass语法、ejs模板、vue/react语法、图片压缩、全局zepto对象设置。
   
