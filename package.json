@@ -1,6 +1,6 @@
 {
   "name": "basewebpack",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/zyprepare/growth-baseWebpack/issues"
   },
   "homepage": "https://github.com/zyprepare/growth-baseWebpack#readme",
-  "devDependencies": {
+  "dependencies": {
     "autoprefixer": "^8.5.1",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
