@@ -1,7 +1,7 @@
 {
   "name": "basewebpack",
-  "version": "1.1.1",
-  "description": "",
+  "version": "1.1.2",
+  "description": "base webpack config",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zyprepare/growth-baseWebpack.git"
   },
-  "author": "",
+  "author": "zhouyun",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zyprepare/growth-baseWebpack/issues"
