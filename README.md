@@ -10,6 +10,8 @@
   开发调试：支持webpack-dev-server。
 
 ## 版本说明：
+ 1.1.5：<br>
+ -&nbsp;拼接路径使用path.posix.join方法拼接。<br>
  1.1.4：<br>
  -&nbsp;修复bug，更新reademe文件。<br>
  1.1.3：<br>
